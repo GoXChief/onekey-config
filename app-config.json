@@ -3,15 +3,15 @@
   "min_version": "3.4",
   "banner": {
     "enabled": false,
-    "text": "",
+    "text": "Как дела? Кадилак",
     "type": "info"
   },
   "maintenance": false,
   "maintenance_text": "",
-  "updated_at": 1781572278,
+  "updated_at": 1781576007,
   "trial_days": 3,
   "trial_data_gb": 5,
   "abuse_protection": true,
   "trial_ip_window_days": 14,
-  "api_url": ""
+  "api_url": "https://api.onekeyvpn.site"
 }
